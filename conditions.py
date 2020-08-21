@@ -96,8 +96,5 @@
 # else:
 #     print('Only Pakistani Nationality is allowed')
 
-a=[1,2,3]
-b=[2,4]
-a.extend(b)
-print(a)
+
 
